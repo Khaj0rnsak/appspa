@@ -1,0 +1,30 @@
+.custom{
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.titles{
+    width: 220px;
+}
+.Fristname, .Lastname{
+    width: 350px;
+}
+.error{
+    color: red;
+}
+.nationlity{
+    width: 350px;
+}
+.country{
+    width:100px;
+    margin-right: 120px !important;
+    position: relative;
+}
+.radio{
+    margin-left: 14px;
+}
+.phone{
+    position: absolute;
+    margin-top: -55px !important;
+    margin-left: 190px !important;
+}
